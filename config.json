@@ -1,0 +1,19 @@
+{
+	"paths": {
+		"terrasync": "/home/dakk/.fgfs/TerraSync/",
+		"output": "/home/dakk/customscenery/",
+		"osm2city": "",
+		"osm2city-data": "/home/dakk/Repositories/osm2city-data",
+		"fgelev": "/usr/bin/fgelev"
+	},
+	"db": {
+		"host": "localhost",
+		"port": 5433,
+		"name": "osmgis",
+		"user": "gisuser",
+		"password": ""
+	},
+	"osm2city": {
+		"NO_ELEV": false
+	}
+}
